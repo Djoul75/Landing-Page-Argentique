@@ -1,0 +1,22 @@
+.cards {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10vh 20vw;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  border: 1px solid lightgray;
+  padding: 2vw;
+  border-radius: 10px;
+  width: 20vh;
+}
+
+.card img {
+  width: 10vh;
+}
